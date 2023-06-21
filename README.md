@@ -1,0 +1,2 @@
+# LINE_NOTIFY_STOCK_WEEKEND_CLOSE
+米国株式の週終値の先週比をお知らせするLINEbot
